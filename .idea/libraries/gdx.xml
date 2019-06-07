@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="gdx">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/GitHub/libgdx/dist/gdx.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/GitHub/libgdx/dist/gdx-natives.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/GitHub/libgdx/dist/gdx-backend-lwjgl3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/GitHub/libgdx/dist/lwjgl-natives.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/vis-ui-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Documents/GitHub/libgdx/dist/gdx-natives.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/GitHub/libgdx/dist/lwjgl-natives.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/GitHub/libgdx/dist/gdx-natives.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/GitHub/libgdx/dist/lwjgl-natives.jar!/" />
+    </SOURCES>
+  </library>
+</component>

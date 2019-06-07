@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Test3D:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Test3D_jar</output-path>
+    <root id="archive" name="Test3D.jar">
+      <element id="module-output" name="Test3D" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/kryonet-2.21-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Collision2D/out/artifacts/Collision2D_jar/Collision2D.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/GitHub/libgdx/dist/gdx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/GitHub/libgdx/dist/gdx-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/GitHub/libgdx/dist/gdx-backend-lwjgl3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/GitHub/libgdx/dist/lwjgl-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/vis-ui-1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
